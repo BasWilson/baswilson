@@ -13,7 +13,7 @@ My favourite langauge has to be TypeScript, oh and I've recently found love for 
 I have finished a degree in Software development and now I'm doing another Software Engineering study at University.
 
 ### ⚡ Fun fact
-My biggest project that is currently upcoming is called HvH.gg. It is a fully featured gaming platform where CS:GO players can play agains eachother without any rules on how to play the game. The stack used for HvH.gg is Nest.JS, ReactJS, Electron, Docker, Kubernetes and SourcePawn.
+My biggest project that is currently upcoming is called HvH.gg. It is a fully featured gaming platform where CS:GO players can play against each other without any rules on how to play the game. The stack used for HvH.gg is Nest.JS, ReactJS, Electron, Docker, Kubernetes and SourcePawn.
 
 <!--
 **BasWilson/baswilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
