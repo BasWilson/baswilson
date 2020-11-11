@@ -1,9 +1,5 @@
 ### ✨ HELLO HELLO ✨
 
-<a>
-  <img src="https://pronouns.vercel.app/built%20different?flag=bi?gradient=noon%20to%20dusk" width="256" height="64" alt="built different">
-</a>
-
 Let's get started shall we.
 
 I like to create all kinds of random things, I really love seeing some clean code. As you might have noticed there are a lot of repo's on my profile. You can kind of see my learning curve over the past 4 years. 
@@ -18,18 +14,3 @@ I have finished a degree in Software development and now I'm doing another Softw
 
 ### ⚡ Fun fact
 My biggest project that is currently upcoming is called HvH.gg. It is a fully featured gaming platform where CS:GO players can play against each other without any rules on how to play the game. The stack used for HvH.gg is Nest.JS, ReactJS, Electron, Docker, Kubernetes and SourcePawn.
-
-<!--
-**BasWilson/baswilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
