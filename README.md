@@ -10,7 +10,7 @@ Of course not every repo is publicly visible sadly, but secrets are nescesary �
 My favourite langauge has to be TypeScript, oh and I've recently found love for Docker 🐋 and Kubernetes 🕸️
 
 ### 🎒 My education? 
-I have finished a degree in Software development and now I'm doing another Software Engineering study at University.
+I have finished a degree in Software development and now I'm doing a Software Engineering study at University.
 
 ### ⚡ Fun fact
 My biggest project that is currently upcoming is called HvH.gg. It is a fully featured gaming platform where CS:GO players can play against each other without any rules on how to play the game. The stack used for HvH.gg is Nest.JS, ReactJS, Electron, Docker, Kubernetes and SourcePawn.
