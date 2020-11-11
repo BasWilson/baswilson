@@ -2,7 +2,7 @@
 
 Let's get started shall we.
 
-I like to create all kinds of random things, I really love seeing some clean code. As you might have noticed there are a lot of repo's on my profile. You can kind of see my learning curve over the past 3 years. 
+I like to create all kinds of random things, I really love seeing some clean code. As you might have noticed there are a lot of repo's on my profile. You can kind of see my learning curve over the past 4 years. 
 
 I have pinnend some of my repo's that I was very proud of at the moment of creating and that have taught me a lot 🤓
 Of course not every repo is publicly visible sadly, but secrets are nescesary 🔒
